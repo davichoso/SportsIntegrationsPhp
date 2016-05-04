@@ -6,7 +6,6 @@
  * Date: 2/22/16
  * Time: 2:50 PM
  * info --- code taken from Pierre RASO - eX Nihili <pierre@exnihili.com> github
- * I had done the compatibility and modifications for sportsnet.es
  */
 
 
